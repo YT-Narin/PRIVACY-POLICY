@@ -32,4 +32,4 @@ Service Improvement: The information collected helps us improve the functionalit
 - We reserve the right to update or modify this Privacy Policy at any time. It is your responsibility to review this policy periodically for any changes.
 
 7. **Contact Us:**
-- If you have any questions, concerns, or requests regarding this Privacy Policy or the use of your personal information, please contact us at neriumbot.support@gmail.com
+- If you have any questions, concerns, or requests regarding this Privacy Policy or the use of your personal information, please contact us at neriumbotsup@gmail.com
