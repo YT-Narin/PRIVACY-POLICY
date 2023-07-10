@@ -33,7 +33,7 @@ This Privacy Policy outlines how the Discord bot "Nerium" collects, uses, and pr
 7. **Contact Us:**
 - If you have any questions, concerns, or requests regarding this Privacy Policy or the use of your personal information, please contact us at neriumbot.sup@gmail.com
 
-# RUS: Политика конфиденциальности для Discord-бота "Nerium"
+# RU: Политика конфиденциальности для Discord-бота "Nerium"
 
 **Последнее обновление:** 10.07.2023
 
